@@ -1,0 +1,8 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"--prefix=/home/ael-bala/goinfre/apr-util" \
+"--with-apr=/home/ael-bala/goinfre/apr" \
+"$@"

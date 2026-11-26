@@ -1,0 +1,2 @@
+[Thu Nov 26 21:26:01.461903 2026] [mpm_event:notice] [pid 2179612:tid 2179612] AH00489: Apache/2.4.71 (Unix) configured -- resuming normal operations
+[Thu Nov 26 21:26:01.461959 2026] [core:notice] [pid 2179612:tid 2179612] AH00094: Command line: '/home/ael-bala/goinfre/apache/bin/httpd'

@@ -1,0 +1,11 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"--prefix=/home/ael-bala/goinfre/apache" \
+"--with-apr=/home/ael-bala/goinfre/apr" \
+"--with-apr-util=/home/ael-bala/goinfre/apr-util" \
+"--enable-so" \
+"--enable-rewrite" \
+"$@"
